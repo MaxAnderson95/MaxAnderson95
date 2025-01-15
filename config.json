@@ -5,7 +5,6 @@
         "location",
         "company",
         "email",
-        "hireable",
         "followers",
         "following",
         "public_repos",
@@ -20,7 +19,7 @@
         "total_prs"
     ],
     "additional_info": "",
-    "preferred_color": "lightblue",
+    "preferred_color": "yellow",
     "max_languages": 5,
     "append_automatic": true,
     "exclude_orgainzations": true
